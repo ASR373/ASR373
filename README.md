@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASR373](https://github.com/ASR373)
 
-- 📝 I regularly write articles on [https://adithsreeram.medium.com/](https://adithsreeram.medium.com/)
+- 📝 You can check my articles on [https://adithsreeram.medium.com/](https://adithsreeram.medium.com/)
 
 - 💬 Ask me about **Python Libraries like Numpy, Pandas, Matplotlib, Seaborn. Streamlit to deploy your Projects**
 
