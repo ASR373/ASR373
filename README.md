@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adith Sreeram Arjunan Sivakumar</h1>
-- 🔭 I’m currently working on **becoming a data engineer
+- 🔭 I’m currently working on *becoming a data engineer
 
 - 🌱 I’m currently learning **AWS**
 
